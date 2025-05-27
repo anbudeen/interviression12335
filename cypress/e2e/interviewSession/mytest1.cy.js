@@ -83,7 +83,7 @@ describe('patient details',()=>{
         })
 
         }) 
-
+//screensshots
    afterEach(() => {
   cy.screenshot();
 });
