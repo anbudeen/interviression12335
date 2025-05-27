@@ -17,7 +17,7 @@ describe('patient details',()=>{
 
 
     })
-
+// update screenshot
      afterEach(() => {
   cy.screenshot();
 });
