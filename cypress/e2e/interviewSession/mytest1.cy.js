@@ -74,7 +74,7 @@ describe('patient details',()=>{
     cy.url().should('include','/transaction-id/')
 
     cy.get('#messageContainer').should('contain.text',"Registration Form is Successfully Submitted")
-
+//test
 
 
   })
